@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace SeedStar;
 
 use Illuminate\Foundation\Auth\User as Authenticatable;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace SeedStar\Events;
 
 abstract class Event
 {
